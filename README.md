@@ -13,5 +13,5 @@ Centralized space for all Linux learning resources I find on my journey
 - https://chooselinux.show/
 - https://linuxunplugged.com/
 - https://linuxactionnews.com/
-- Linux Action Headlines
+- https://linuxactionnews.com/
 - https://www.linux4everyone.com/
