@@ -7,6 +7,7 @@ Centralized space for all Linux learning resources I find on my journey
 - https://www.reddit.com/r/linux/
 - https://www.reddit.com/r/linuxadmin/
 - https://www.reddit.com/r/sysadmin/
+- https://linuxconfig.org/
 - https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 
 # Podcast
