@@ -8,6 +8,11 @@ Centralized space for all Linux learning resources I find on my journey
 - https://www.reddit.com/r/linuxadmin/
 - https://www.reddit.com/r/sysadmin/
 - https://linuxconfig.org/
+
+## DNS
+- https://tldp.org/LDP/lame/LAME/linux-admin-made-easy/domain-name-server.html
+
+## BASH
 - https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 
 # Podcast
