@@ -12,6 +12,9 @@ Centralized space for all Linux learning resources I find on my journey
 ## DNS
 - https://tldp.org/LDP/lame/LAME/linux-admin-made-easy/domain-name-server.html
 
+## Networking
+- https://haydenjames.io/linux-networking-commands-scripts/
+
 ## BASH
 - https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 - https://www.redhat.com/sysadmin/learn-bash-scripting
