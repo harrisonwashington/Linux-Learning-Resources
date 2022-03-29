@@ -27,3 +27,7 @@ Centralized space for all Linux learning resources I find on my journey
 - https://linuxactionnews.com/
 - https://linuxactionnews.com/
 - https://www.linux4everyone.com/
+
+# Youtube 
+- Lawrence Systems: https://www.youtube.com/user/TheTecknowledge 
+- LearnLinuxTV: https://www.youtube.com/c/LearnLinuxtv
