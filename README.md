@@ -31,3 +31,4 @@ Centralized space for all Linux learning resources I find on my journey
 # Youtube 
 - Lawrence Systems: https://www.youtube.com/user/TheTecknowledge 
 - LearnLinuxTV: https://www.youtube.com/c/LearnLinuxtv
+- tutoriaLinux: https://www.youtube.com/c/tutoriaLinux/videos
