@@ -19,6 +19,7 @@ Centralized space for all Linux learning resources I find on my journey
 - https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 - https://www.redhat.com/sysadmin/learn-bash-scripting
 - https://www.gnu.org/software/bash/manual/bash.html#What-is-Bash_003f
+- https://github.com/Idnan/bash-guide
 
 # Podcast
 - https://twit.tv/shows/security-now
