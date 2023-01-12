@@ -9,6 +9,9 @@ Centralized space for all Linux learning resources I find on my journey
 - https://www.reddit.com/r/sysadmin/
 - https://linuxconfig.org/
 
+## Users & Groups
+- https://www.redhat.com/sysadmin/linux-user-group-management
+
 ## DNS
 - https://tldp.org/LDP/lame/LAME/linux-admin-made-easy/domain-name-server.html
 
