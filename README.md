@@ -1,6 +1,8 @@
 # Linux-Learning-Resources
 A centralized space for all Linux learning resources I find on my journey 
 
+[About me](About-me.md)
+
 ## References
 - [https://explainshell.com](https://explainshell.com/)
 
