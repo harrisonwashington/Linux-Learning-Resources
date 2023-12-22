@@ -1,6 +1,6 @@
-# Linux-Learning-Resources
-
 [About me](About-Me.md) [Contact](Contact.md)
+
+# Linux-Learning-Resources
 
 A centralized space for all Linux learning resources I find on my journey  
 
